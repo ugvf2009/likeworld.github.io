@@ -152,7 +152,6 @@
 
 * 在线安装：[https://shadowsocks-help.github.io/ios/](https://shadowsocks-help.github.io/ios/)
 
-* 在线安装2:[https://www.douyin.re/shadowrocket/](https://www.douyin.re/shadowrocket/)
 
 
 
@@ -166,7 +165,7 @@
 
 - ClashX
 
-### [点我下载ClashX](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.20.1.dmg)
+### [点我下载ClashX](https://netfiles.pw/download.php?filename=/v2/macos/clashX-v1.20.4.dmg)
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 这个地址可以转换。
