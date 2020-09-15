@@ -53,8 +53,12 @@
    或者这个：
    
    [https://www.5414.cf](https://www.5414.cf)
+   
+   这个也行
 
-
+   [https://www.5414.ga](https://www.5414.ga)
+   
+   
 * 二爷翻墙永久网址:[https://github.com/ugvf2009/Miles/blob/master/README.md](https://github.com/ugvf2009/Miles/blob/master/README.md)
 
 
@@ -76,6 +80,8 @@
 [https://pan.5414.gq](https://pan.5414.gq)  
 
 [https://pan.5414.cf](https://pan.5414.cf)
+
+[https://pan.5414.ga](https://pan.5414.ga)
 
 解压后双击文件夹里 V2rayN.exe，在订阅设置里添加订阅:https://jiang.netlify.app 
 
@@ -173,7 +179,7 @@ https://api.dler.io/sub?target=clash&new_name=true&url=https%3A%2F%2Fjiang.netli
 
 - ClashX
 
-### [点我下载ClashX-v1.30.0](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.0.dmg)
+### [点我下载ClashX-v1.30.0](https://tlanyan.me/download.php?filename=/v2/macos/clashX-v1.30.2.dmg)
 
 ClashX使用二爷订阅的话，需要把订阅链接转换一下。
 这个地址可以转换，转换后添加到订阅处，然后更新一下即可。
